@@ -1,8 +1,8 @@
 # swap-2.0-
-Main contracts for PUPSWAP
+Main contracts for BULLDEX
 
 ### Swap 2.0
-Swap 2.0 Base Contract to be used on PUPSWAP
+Swap 2.0 Base Contract to be used on BULLDEX
 
 ## Get Started
 - Clone Repo
@@ -21,5 +21,5 @@ Mainnet: Coming soon
 Testnet: Coming Soon
 
 ## Testing Environment
-Soon you can test your contract using testnet at https://testnet.pupswap.finance
+Soon you can test your contract using testnet at https://testnet.bulldex.finance
 
